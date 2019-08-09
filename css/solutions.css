@@ -1,0 +1,79 @@
+*{
+    font-family: "minion-pro",serif;
+
+}
+
+#navbar{
+    background-color: transparent;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+    position: absolute;
+    top: 0px;
+    z-index: 2;
+
+}
+
+.slider{
+    height: 550px!important;
+}
+
+.slides{
+    height: 100%!important;
+}
+
+li a{
+    color: rgba(255, 255, 255, .8)!important;
+    
+}
+
+@media (max-width:600px){
+    li a{
+        color: black!important;
+        
+    }
+    
+}
+
+
+/*HERE AND UP ALL PAGES*/
+
+#header{
+    height: 500px;
+    overflow: hidden;
+
+}
+.img-rounded {
+    border-radius: 6px;
+}    
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+
+.main{
+    margin: 10% 10%;
+}
+
+.main h4{
+    margin-top: 0;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.main p {
+    text-align: justify;
+    color : #999;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+
+.page-footer {
+    padding-top: 20px;
+    color: #fff;
+    background-color: #222224 !important;
+}

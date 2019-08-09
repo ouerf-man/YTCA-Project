@@ -1,0 +1,88 @@
+
+*{
+    font-family: "minion-pro",serif;
+
+}
+
+#navbar{
+    background-color: transparent;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+
+}
+
+
+li a{
+    color: rgba(255, 255, 255, .8)!important;
+    
+}
+@media (max-width:600px){
+    li a{
+        color: black!important;
+        
+    }
+    
+}
+
+
+/*HERE AND UP ALL PAGES*/
+
+#header{
+    height: 610px;
+    background-image: url("../images/bgevo.png");
+    background-size: cover;
+}
+
+
+
+
+.Button{
+    position: absolute;
+    top: 15%;
+    left: 95%;
+    font-size: 40px;
+    background-color: whitesmoke transparent;
+        
+    
+    
+
+} 
+
+ 
+.article-title{
+    letter-spacing: 4px;
+    font-size: 20px;
+    text-align: justify;
+    border-left: 1px solid black;
+    padding-left: 20px;
+} 
+
+#article{
+    text-align: justify;
+}
+
+.article{
+    margin-top: 80px;
+}
+#article{
+    text-align: justify;
+}
+
+
+
+
+.page-footer {
+    padding-top: 20px;
+    color: #fff;
+    background-color: #222224 !important;
+    margin-top: 100px;
+}
+
+
+
+/*
+#132959
+#234CA5
+#457DBB
+#4D664A
+*/
